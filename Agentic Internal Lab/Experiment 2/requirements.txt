@@ -1,0 +1,4 @@
+faker>=19.0.0
+fpdf2>=2.7.5
+matplotlib>=3.7.0
+rich>=13.5.0
